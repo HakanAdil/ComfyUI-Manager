@@ -32147,6 +32147,15 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        }
+        },
+		{
+			"author": "Hakan Adil",
+			"title": "ComfyUI GPU Monitor",
+			"id": "comfyui-gpu-monitor",
+			"reference": "https://github.com/HakanAdil/ComfyUI-GPU-Monitor",
+			"files": [],
+			"install_type": "git",
+			"description": "Ultra-slim GPU monitor toolbar for ComfyUI (GPU%, VRAM%, °C, W)."
+			}
     ]
 }
